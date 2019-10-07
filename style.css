@@ -628,7 +628,7 @@ body {
 /* --------------------------------------------------------------------------- text infos data */
 /* --------------------------------------------------------------------------- speed */
 .set-speed dl.infos dd span:after {
-  content: 'Orbit Velocity'; }
+  content: 'Velocitat de l\'orbita'; }
 
 .set-speed #sun dl.infos dd:after {
   content: '0 km/h'; }
@@ -659,7 +659,7 @@ body {
 
 /* --------------------------------------------------------------------------- size */
 .set-size dl.infos dd span:after {
-  content: 'Equatorial Circumference'; }
+  content: 'Circumferència ecuatorial'; }
 
 .set-size #sun dl.infos dd:after {
   content: '4,370,005 km'; }
@@ -690,7 +690,7 @@ body {
 
 /* --------------------------------------------------------------------------- distance */
 .set-distance dl.infos dd span:after {
-  content: 'From Sun'; }
+  content: 'Del sol'; }
 
 .set-distance #sun dl.infos dd span:after {
   content: 'From Earth'; }
